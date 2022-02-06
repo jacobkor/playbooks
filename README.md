@@ -36,6 +36,6 @@ Answer the following questions to fill in the blanks:
 
 commands to use:
  
- - All playbook and configurations files  can be downloaded using: git clone https://github.com/jacobkor/playbooks.git
+ - All playbook and configurations files  can be downloaded using:   git clone https://github.com/jacobkor/playbooks.git
  - To update any of the .yml files use: nano <filname.yml> 
  - TO run a playbook use: ansible-playbook <file.yml>
